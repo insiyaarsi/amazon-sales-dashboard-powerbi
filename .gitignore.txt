@@ -1,0 +1,29 @@
+# Power BI temporary files
+*.pbix.tmp
+*.pbix~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Large data files (uncomment if needed)
+# *.csv
+# *.xlsx
+# *.xls
+
+# Personal notes
+notes.txt
+TODO.md
