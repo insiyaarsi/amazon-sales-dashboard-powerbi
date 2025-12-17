@@ -2,7 +2,7 @@
 
 An interactive sales analytics dashboard built in Power BI to analyze Amazon sales data across India. This project visualizes sales performance, geographical distribution, and order status tracking to provide actionable business insights.
 
-![Dashboard Overview](images/dashboard-screenshot.png)
+<img src="images/Screenshot 2025-12-17 153515.png">
 
 ## Overview
 
